@@ -1,0 +1,259 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 00:05:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 00:05:07 172.31.36.65 GET /.git/config - 80 - 52.80.177.122 Go-http-client/1.1 - 404 0 2 1304
+2024-01-28 00:10:48 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 107
+2024-01-28 00:10:48 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 108
+2024-01-28 00:12:22 172.31.36.65 GET / - 443 - 35.240.121.17 python-requests/2.31.0 - 200 0 0 101
+2024-01-28 00:17:22 172.31.36.65 GET /.env - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 103
+2024-01-28 00:17:22 172.31.36.65 POST / - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 01:22:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 01:22:48 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1304
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 01:51:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 01:51:26 172.31.36.65 GET /.env - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1205
+2024-01-28 01:51:26 172.31.36.65 POST / - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 110
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 02:53:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 02:53:01 172.31.36.65 GET / - 443 - 185.180.143.137 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 1214
+2024-01-28 02:53:51 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 105
+2024-01-28 02:53:51 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 03:18:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 03:18:22 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1300
+2024-01-28 03:18:52 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 107
+2024-01-28 03:18:52 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+2024-01-28 03:30:06 172.31.36.65 GET / - 443 - 122.96.28.228 - - 200 0 0 263
+2024-01-28 03:31:19 172.31.36.65 GET / - 443 - 182.138.158.216 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 200 0 0 921
+2024-01-28 03:31:27 172.31.36.65 GET /favicon.ico - 443 - 111.113.89.247 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 404 0 2 2943
+2024-01-28 03:39:23 172.31.36.65 HEAD / - 443 - 188.165.2.213 - - 200 0 0 192
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 04:22:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 04:22:46 172.31.36.65 GET /.env - 80 - 78.153.140.177 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1250
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 05:23:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 05:23:10 172.31.36.65 POST /boaform/admin/formLogin - 80 - 103.186.67.227 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:71.0)+Gecko/20100101+Firefox/71.0 http://3.22.63.57:80/admin/login.asp 404 0 2 1685
+2024-01-28 05:31:52 172.31.36.65 GET /.env - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 103
+2024-01-28 05:31:52 172.31.36.65 POST / - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 110
+2024-01-28 05:36:19 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 103
+2024-01-28 05:36:19 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+2024-01-28 05:39:30 172.31.36.65 GET / - 80 - 198.235.24.26 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 190
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 06:02:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 06:02:03 172.31.36.65 GET / - 80 - 34.79.162.186 python-requests/2.31.0 - 200 0 0 1181
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 06:31:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 06:30:57 172.31.36.65 GET / XDEBUG_SESSION_START=phpstorm 443 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 1233
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 06:58:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 06:58:49 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1297
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 07:34:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 07:34:55 172.31.36.65 GET / - 443 - 152.32.132.203 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+8_0_2)+AppleWebKit/592.38+(KHTML,+like+Gecko)+Chrome/76.0.2153+Safari/537.36 - 200 0 0 1292
+2024-01-28 07:34:55 172.31.36.65 GET /favicon.ico - 443 - 152.32.132.203 Mozilla/5.0+(Windows+NT+8_0;+Win64;+x64)+AppleWebKit/548.53+(KHTML,+like+Gecko)+Chrome/59.0.293+Safari/537.36 - 404 0 2 244
+2024-01-28 07:34:57 172.31.36.65 GET /sitemap.xml - 443 - 152.32.132.203 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/556.35+(KHTML,+like+Gecko)+Chrome/88.0.2531+Safari/537.36 - 404 0 2 202
+2024-01-28 07:34:57 172.31.36.65 GET /robots.txt - 443 - 152.32.132.203 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+9_1)+AppleWebKit/540.54+(KHTML,+like+Gecko)+Chrome/75.0.2955+Safari/537.36 - 404 0 2 245
+2024-01-28 07:46:40 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 128
+2024-01-28 07:46:40 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 132
+2024-01-28 07:50:43 172.31.36.65 GET /actuator/gateway/routes - 443 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 139
+2024-01-28 07:58:12 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 103
+2024-01-28 07:58:12 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 107
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 08:34:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 08:34:38 172.31.36.65 GET /.env - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1199
+2024-01-28 08:34:38 172.31.36.65 POST / - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+2024-01-28 08:46:15 172.31.36.65 GET / - 443 - 71.6.165.200 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/98.0.4758.102+Safari/537.36 - 200 0 0 109
+2024-01-28 08:46:22 172.31.36.65 GET /robots.txt - 443 - 71.6.165.200 - - 404 0 2 116
+2024-01-28 08:46:22 172.31.36.65 GET /sitemap.xml - 443 - 71.6.165.200 - - 404 0 2 111
+2024-01-28 08:46:22 172.31.36.65 GET /.well-known/security.txt - 443 - 71.6.165.200 - - 404 0 2 108
+2024-01-28 08:46:24 172.31.36.65 GET /favicon.ico - 443 - 71.6.165.200 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.5005.63+Safari/537.36 - 404 0 2 68
+2024-01-28 08:47:42 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 204
+2024-01-28 09:01:51 172.31.36.65 GET / - 80 - 141.98.11.201 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/90.0.4430.85+Safari/537.36+Edg/90.0.818.46 - 200 0 0 114
+2024-01-28 09:10:26 172.31.36.65 GET /.env - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.67+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.bak - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.67+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.dev - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML+like+Gecko)+Chrome/44.0.2403.155+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.dev.local - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2227.0+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.development.local - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.77+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.prod - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2762.73+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.prod.local - 443 - 138.197.96.142 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686+on+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2820.59+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:26 172.31.36.65 GET /.env.production - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2225.0+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.production.local - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.1916.47+Safari/537.36 - 404 0 2 18
+2024-01-28 09:10:27 172.31.36.65 GET /.env.local - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2762.73+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.example - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.93+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.stage - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2762.73+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.live - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.3319.102+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.backup - 443 - 138.197.96.142 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2227.0+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:27 172.31.36.65 GET /.env.save - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.1916.47+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /.env.old - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.67+Safari/537.36 - 404 0 2 15
+2024-01-28 09:10:28 172.31.36.65 GET /.env.www - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.2309.372+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /.env_1 - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.67+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /.env_sample - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.3319.102+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /.env.63 - 443 - 138.197.96.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2866.71+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /.env.3.22 - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2225.0+Safari/537.36 - 404 0 2 16
+2024-01-28 09:10:28 172.31.36.65 GET /api/.env - 443 - 138.197.96.142 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML+like+Gecko)+Chrome/44.0.2403.155+Safari/537.36 - 404 0 2 16
+2024-01-28 09:22:49 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 131
+2024-01-28 09:22:49 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 131
+2024-01-28 09:31:03 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 104
+2024-01-28 09:31:03 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 106
+2024-01-28 09:46:19 172.31.36.65 GET / - 80 - 62.176.0.192 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 200 0 0 136
+2024-01-28 09:46:19 172.31.36.65 GET /HNAP1/ - 80 - 62.176.0.192 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 http://3.22.63.57/ 404 0 2 137
+2024-01-28 10:06:17 172.31.36.65 GET / - 443 - 185.180.143.48 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 28
+2024-01-28 10:16:43 172.31.36.65 GET /phpMyAdmin/scripts/setup.php - 80 - 50.237.153.210 - - 404 0 2 14
+2024-01-28 10:24:42 172.31.36.65 GET / - 80 - 91.136.168.122 - - 200 0 0 104
+2024-01-28 10:37:03 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 205
+2024-01-28 10:53:00 172.31.36.65 GET / - 80 - 71.6.134.234 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.0.0+Safari/537.36 - 200 0 0 69
+2024-01-28 11:05:51 172.31.36.65 GET /.env - 80 - 103.156.90.162 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 242
+2024-01-28 11:05:51 172.31.36.65 POST / - 80 - 103.156.90.162 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 246
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 11:36:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 11:36:11 172.31.36.65 GET /.gitignore - 443 - 168.100.9.248 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 404 0 2 1315
+2024-01-28 11:37:42 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 104
+2024-01-28 11:37:42 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 107
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 12:15:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 12:15:04 172.31.36.65 GET /.env - 80 - 157.254.165.236 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - 404 0 2 1111
+2024-01-28 12:15:47 172.31.36.65 GET /manager/html - 80 - 192.241.235.34 Mozilla/5.0+zgrab/0.x - 404 0 2 67
+2024-01-28 12:23:01 172.31.36.65 GET /.git/HEAD - 80 - 52.83.41.47 Python-urllib/3.10 - 404 0 2 227
+2024-01-28 12:25:59 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 202
+2024-01-28 12:29:31 172.31.36.65 GET /.env - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 106
+2024-01-28 12:29:31 172.31.36.65 POST / - 443 - 51.89.5.185 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 12:55:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 12:54:57 172.31.36.65 GET /.git/config - 80 - 170.64.132.221 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1306
+2024-01-28 12:54:57 172.31.36.65 GET /.git/config - 443 - 170.64.132.221 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 211
+2024-01-28 13:11:27 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 102
+2024-01-28 13:11:27 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 107
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 13:36:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 13:36:54 172.31.36.65 GET / - 443 - 47.251.14.232 Mozilla/5.0+(Linux;+Android+11;+M2004J15SC)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.114+Mobile+Safari/537.36 - 200 0 0 1159
+2024-01-28 13:36:56 172.31.36.65 GET /Public/home/js/check.js - 443 - 47.88.101.3 Mozilla/5.0+(Linux;+Android+11;+M2004J15SC)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.114+Mobile+Safari/537.36 - 404 0 2 62
+2024-01-28 13:36:57 172.31.36.65 GET /static/admin/javascript/hetong.js - 443 - 47.88.101.3 Mozilla/5.0+(Linux;+Android+11;+M2004J15SC)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/103.0.5060.114+Mobile+Safari/537.36 - 404 0 2 58
+2024-01-28 13:43:10 172.31.36.65 GET /.env - 80 - 197.210.55.117 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 259
+2024-01-28 13:43:10 172.31.36.65 POST / - 80 - 197.210.55.22 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 265
+2024-01-28 13:46:57 172.31.36.65 GET / - 80 - 165.154.182.221 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36+Edg/120.0.0.0 - 200 0 0 71
+2024-01-28 13:47:16 172.31.36.65 GET /favicon.ico - 80 - 165.154.182.221 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - 404 0 2 69
+2024-01-28 13:47:17 172.31.36.65 GET /robots.txt - 80 - 165.154.182.221 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - 404 0 2 71
+2024-01-28 13:47:18 172.31.36.65 GET /sitemap.xml - 80 - 165.154.182.221 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - 404 0 2 71
+2024-01-28 13:47:24 172.31.36.65 GET / - 80 - 165.154.182.221 python-requests/2.27.1 - 200 0 0 70
+2024-01-28 14:08:55 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 298
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 14:31:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 14:31:19 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1219
+2024-01-28 14:31:19 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 134
+2024-01-28 14:51:55 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 109
+2024-01-28 14:51:55 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+2024-01-28 14:54:11 172.31.36.65 GET / - 443 - 87.236.176.48 Mozilla/5.0+(compatible;+InternetMeasurement/1.0;++https://internet-measurement.com/) - 200 0 0 87
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 15:16:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 15:16:03 172.31.36.65 GET /systembc/password.php - 80 - 45.56.108.128 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 64 1492
+2024-01-28 15:35:09 172.31.36.65 GET /.env - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 145
+2024-01-28 15:35:09 172.31.36.65 POST / - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 15:58:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 15:58:03 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1307
+2024-01-28 15:58:06 172.31.36.65 GET /.env - 80 - 91.92.251.145 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 91
+2024-01-28 15:58:06 172.31.36.65 POST / - 80 - 91.92.251.145 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 90
+2024-01-28 16:09:43 172.31.36.65 GET /ahBQ - 443 - 45.56.108.128 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.4972.0+Safari/537.36 - 404 0 2 26
+2024-01-28 16:22:08 172.31.36.65 GET / - 443 - 102.131.60.136 nvdorz - 200 0 0 282
+2024-01-28 16:41:19 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 106
+2024-01-28 16:41:19 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 17:46:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 17:46:32 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1296
+2024-01-28 17:57:30 172.31.36.65 HEAD /cpanel - 80 - 179.43.191.18 - - 404 0 2 169
+2024-01-28 17:57:30 172.31.36.65 HEAD /cpanel - 443 - 179.43.191.18 - - 404 0 2 180
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 18:34:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 18:34:03 172.31.36.65 GET /.DS_Store - 443 - 52.81.61.158 Go-http-client/2.0 - 404 0 2 1306
+2024-01-28 18:40:57 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 109
+2024-01-28 18:40:57 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+2024-01-28 18:54:21 172.31.36.65 GET / - 80 - 198.235.24.147 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 108
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 19:34:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 19:34:17 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1296
+2024-01-28 19:49:50 172.31.36.65 GET / - 443 - 205.210.31.133 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 125
+2024-01-28 19:57:36 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 104
+2024-01-28 19:57:36 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 109
+2024-01-28 19:57:39 172.31.36.65 GET /.env - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 105
+2024-01-28 19:57:39 172.31.36.65 POST / - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 20:34:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 20:33:58 172.31.36.65 GET /.env - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1200
+2024-01-28 20:33:58 172.31.36.65 POST / - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+2024-01-28 20:35:14 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 131
+2024-01-28 20:35:14 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 134
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 21:12:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 21:12:01 172.31.36.65 GET /.vscode/sftp.json - 443 - 52.81.17.152 Go-http-client/2.0 - 404 0 2 1338
+2024-01-28 21:21:58 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 203
+2024-01-28 21:34:07 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 109
+2024-01-28 21:34:07 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 108
+2024-01-28 21:44:32 172.31.36.65 GET /.git/config - 80 - 104.131.66.43 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 16
+2024-01-28 21:44:32 172.31.36.65 GET /.git/config - 443 - 104.131.66.43 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 16
+2024-01-28 21:47:47 172.31.36.65 GET /.env - 80 - 78.153.140.224 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 149
+2024-01-28 21:49:12 172.31.36.65 GET / - 80 - 35.203.210.122 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 87
+2024-01-28 21:50:48 172.31.36.65 GET / - 80 - 205.210.31.106 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 74
+2024-01-28 22:11:25 172.31.36.65 GET / - 80 - 205.210.31.2 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 111
+2024-01-28 22:21:47 172.31.36.65 GET / - 443 - 220.167.233.46 - - 200 0 0 251
+2024-01-28 22:22:38 172.31.36.65 GET / - 443 - 183.93.83.212 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 200 0 0 263
+2024-01-28 22:22:38 172.31.36.65 GET /favicon.ico - 443 - 139.212.68.165 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 404 0 2 269
+2024-01-28 22:25:33 172.31.36.65 GET / - 443 - 107.170.253.36 Mozilla/5.0+zgrab/0.x - 200 0 0 67
+2024-01-28 22:46:54 172.31.36.65 GET / - 443 - 185.180.143.49 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 119
+2024-01-28 22:51:58 172.31.36.65 GET /.env - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 106
+2024-01-28 22:51:58 172.31.36.65 POST / - 443 - 135.125.218.67 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-28 23:32:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-28 23:32:09 172.31.36.65 GET /.env - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1195
+2024-01-28 23:32:09 172.31.36.65 POST / - 80 - 135.125.246.189 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+2024-01-28 23:42:09 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 204
+2024-01-28 23:57:34 172.31.36.65 GET /.env - 80 - 20.3.241.148 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:77.0)+Gecko/20100101+Firefox/77.0 - 404 0 2 90

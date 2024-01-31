@@ -1,0 +1,104 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 00:00:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 00:00:11 172.31.36.65 GET /api/.git/config - 443 - 35.181.57.249 Mozilla/5.0+(Linux;+Android+12;+SM-G991B)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/100.0.4896.127+Mobile+Safari/537.36+EdgA/100.0.1185.50 - 404 0 2 91
+2024-01-30 00:20:57 172.31.36.65 GET /actuator/health - 80 - 192.241.219.44 Mozilla/5.0+zgrab/0.x - 404 0 2 388
+2024-01-30 00:29:55 172.31.36.65 GET / - 80 - 205.210.31.206 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 148
+2024-01-30 00:32:36 172.31.36.65 GET /console/ - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 161
+2024-01-30 00:38:07 172.31.36.65 GET /_ignition/execute-solution - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 984
+2024-01-30 00:50:08 172.31.36.65 GET / - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 149
+2024-01-30 00:54:25 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 102
+2024-01-30 00:54:25 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+2024-01-30 01:12:57 172.31.36.65 GET / - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 984
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 01:38:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 01:38:19 172.31.36.65 GET /actuator/gateway/routes - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 1662
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 02:08:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 02:08:14 172.31.36.65 GET / - 80 - 205.210.31.146 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 1220
+2024-01-30 02:14:40 172.31.36.65 GET /geoserver - 80 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 976
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 02:57:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 02:57:31 172.31.36.65 GET / - 80 - 35.203.210.220 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 1176
+2024-01-30 03:16:06 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 103
+2024-01-30 03:16:06 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 103
+2024-01-30 03:17:38 172.31.36.65 GET / - 443 - 192.241.195.83 Mozilla/5.0+zgrab/0.x - 200 0 0 68
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 03:41:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 03:41:20 172.31.36.65 GET /autodiscover/autodiscover.json @zdi/Powershell 443 - 192.241.201.31 Mozilla/5.0+zgrab/0.x - 404 0 2 1159
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 04:05:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 04:05:25 172.31.36.65 GET / - 80 - 198.235.24.152 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 1187
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 04:49:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 04:49:16 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1193
+2024-01-30 04:49:16 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 108
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 05:20:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 05:20:02 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1199
+2024-01-30 05:20:02 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 106
+2024-01-30 05:29:33 172.31.36.65 GET / - 443 - 162.216.149.205 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 30
+2024-01-30 05:32:06 172.31.36.65 GET / - 80 - 34.78.6.216 python-requests/2.31.0 - 200 0 0 89
+2024-01-30 05:48:40 172.31.36.65 GET /.env - 80 - 142.202.242.186 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 100
+2024-01-30 05:49:02 172.31.36.65 GET / - 443 - 82.80.249.195 Mozilla/6.0+(compatible) http://www.netfarmers.dk/ 200 0 0 309
+2024-01-30 05:53:03 172.31.36.65 POST / - 80 - 142.202.242.186 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 60
+2024-01-30 06:13:42 172.31.36.65 GET /.env - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 123
+2024-01-30 06:13:42 172.31.36.65 POST / - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+2024-01-30 06:16:00 172.31.36.65 GET /stalker_portal/server/tools/auth_simple.php - 80 - 180.149.125.165 Mozilla/5.0+(Windows+NT+5.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 404 0 2 243
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 07:15:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 07:14:59 172.31.36.65 GET /iisstart.png - 80 - 5.179.80.205 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/121.0.0.0+Safari/537.36 http://3.22.63.57/ 304 0 0 1402
+2024-01-30 07:15:01 172.31.36.65 GET /favicon.ico - 80 - 5.179.80.205 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/121.0.0.0+Safari/537.36 http://3.22.63.57/ 404 0 2 124
+2024-01-30 07:15:44 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 107
+2024-01-30 07:15:44 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 07:38:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 07:38:18 172.31.36.65 GET /.env - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1198
+2024-01-30 07:38:18 172.31.36.65 POST / - 443 - 54.36.112.44 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 104
+2024-01-30 07:38:20 172.31.36.65 GET / XDEBUG_SESSION_START=phpstorm 443 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 532
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 08:25:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 08:25:26 172.31.36.65 GET /robots.txt - 443 - 66.249.70.169 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 1112
+2024-01-30 08:25:26 172.31.36.65 GET / - 443 - 66.249.70.167 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.6099.224+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.netfarmers.dk/ 200 0 0 22
+2024-01-30 08:25:33 172.31.36.65 GET / - 443 - 66.249.70.168 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.6099.224+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.netfarmers.dk/ 200 0 0 23
+2024-01-30 08:25:33 172.31.36.65 GET / - 443 - 66.249.70.168 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Chrome/120.0.6099.224+Safari/537.36 http://www.netfarmers.dk/ 200 0 0 27
+2024-01-30 08:29:59 172.31.36.65 GET /.env - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 104
+2024-01-30 08:29:59 172.31.36.65 POST / - 80 - 135.125.244.48 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 107
+2024-01-30 08:50:00 172.31.36.65 GET / - 80 - 198.199.113.49 Mozilla/5.0+zgrab/0.x - 200 0 0 67
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 09:36:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 09:36:05 172.31.36.65 GET /actuator/gateway/routes - 443 - 83.97.73.245 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 404 0 2 2688
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 10:04:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 10:04:12 172.31.36.65 GET /.env - 80 - 185.254.196.186 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 404 0 2 1364
+2024-01-30 10:04:12 172.31.36.65 POST / - 80 - 185.254.196.186 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36 - 405 0 1 133
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-30 21:21:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-30 21:21:08 172.31.36.65 GET / - 80 - 162.216.149.230 Expanse,+a+Palo+Alto+Networks+company,+searches+across+the+global+IPv4+space+multiple+times+per+day+to+identify+customers&#39;+presences+on+the+Internet.+If+you+would+like+to+be+excluded+from+our+scans,+please+send+IP+addresses/domains+to:+scaninfo@paloaltonetworks.com - 200 0 0 1305
